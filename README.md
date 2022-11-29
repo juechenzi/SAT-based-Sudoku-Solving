@@ -11,4 +11,6 @@ Zeliang Li, 20761897
 \
 A ```Makefile``` is included so that using command ```make``` can produce the executables ```sud2sat``` and ```sat2sud```.\
 \
-The directory ```scripts``` contains the Bash scripts used for testing, and the directory ```data``` contains the input and output data used to produce the performance evaluation report.
+The directory ```scripts``` contains the Bash scripts used for testing, and the directory ```data``` contains the input and output data used to produce the performance evaluation report.\
+\
+The file ```report.pdf``` is the report that summarizes the results of the tests.
