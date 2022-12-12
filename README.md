@@ -1,11 +1,5 @@
 # SAT-based Sudoku Solving
 
-## Group members
-Zhonghao Liu, 20799392\
-Ningzhi Hou, 20850175\
-Yixin Chang, 20827823\
-Zeliang Li, 20761897
-
 ## Submission content
 ```sud2sat.cpp``` is the code file used to produce ```sud2sat```, and ```sat2sud.cpp``` is the code file used to produce ```sat2sud```. \
 \
